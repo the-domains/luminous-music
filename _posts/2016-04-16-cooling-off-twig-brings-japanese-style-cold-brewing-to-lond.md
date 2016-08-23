@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T18:04:15.094Z'
+datePublished: '2016-08-23T18:09:15.464Z'
 sourcePath: >-
   _posts/2016-04-16-cooling-off-twig-brings-japanese-style-cold-brewing-to-lond.md
 inFeed: true
@@ -22,7 +22,8 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-23T18:04:14.418Z'
+via: {}
+dateModified: '2016-08-23T18:09:15.118Z'
 title: 'Cooling off: TWIG brings Japanese-style cold brewing to London'
 app_links: []
 publisher:
@@ -37,10 +38,9 @@ description: >-
   own London-based company, TWIG Teas.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Cooling off: TWIG brings Japanese-style cold brewing to London</h1><p>When self-proclaimed tea fanatic and yoga teacher Iona Carter travelled to Kanazawa, Japan last year, something about their brews seemed extra cool. A local specialty, the process of cold brewing tea inspired Carter to launch her own London-based company, TWIG Teas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d340efa15893cce7423e307478a36c656055568.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d340efa15893cce7423e307478a36c656055568.jpg" /><h1>Cooling off: TWIG brings Japanese-style cold brewing to London</h1><p>When self-proclaimed tea fanatic and yoga teacher Iona Carter travelled to Kanazawa, Japan last year, something about their brews seemed extra cool. A local specialty, the process of cold brewing tea inspired Carter to launch her own London-based company, TWIG Teas.</p></article>
