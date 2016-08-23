@@ -6,9 +6,9 @@ color:
   saturation: 0.9960124192293733
   rhythmicContrast: 0.9364053744357079
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#030408'
+    - '#3C6778'
+    - '#CFD3C5'
+    - '#FFFFFF'
+    - '#312819'
 name: luminous music
