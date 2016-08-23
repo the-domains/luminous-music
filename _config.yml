@@ -1,0 +1,14 @@
+layout_spectrum: 0.6675230136606842
+typography_spectrum: 0.3125894898548722
+color:
+  brandStrength: 0.9342269802000374
+  lightness: 0.06106353225186467
+  saturation: 0.9960124192293733
+  rhythmicContrast: 0.9364053744357079
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: luminous music
