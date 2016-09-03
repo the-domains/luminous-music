@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-01T00:22:16.070Z'
+datePublished: '2016-09-01T00:23:50.473Z'
+sourcePath: _posts/2016-09-01-first-aid-kit.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T00:22:06.042Z'
+dateModified: '2016-09-01T00:23:50.047Z'
 title: First Aid Kit
 publisher: {}
 description: This is one of my favorite songs of the last three years!
 starred: false
-sourcePath: _posts/2016-09-01-first-aid-kit.md
 _type: Blurb
 
 ---
